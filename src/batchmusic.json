@@ -3,30 +3,50 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Frank Zappa"},
+                  "SongTitle": {"S": "Hungry Freaks, Daddy"},
+                  "AlbumTitle": {"S": "Freak Out!"},
+                  "SongYear": {"S": "1966"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Frank Zappa"},
+                  "SongTitle": {"S": "Who Are the Brain Police?"},
+                  "AlbumTitle": {"S": "Freak Out!"},
+                  "SongYear": {"S": "1966"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Frank Zappa"},
+                  "SongTitle": {"S": "What's the Ugliest Part of Your Body?"},
+                  "AlbumTitle": {"S": "We're Only in It for the Money"},
+                  "SongYear": {"S": "1968"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Frank Zappa"},
+                  "SongTitle": {"S": "Peaches en Regalia"},
+                  "AlbumTitle": {"S": "Hot Rats"},
+                  "SongYear": {"S": "1969"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Frank Zappa"},
+                  "SongTitle": {"S": "Son of Mr. Green Genes"},
+                  "AlbumTitle": {"S": "Hot Rats"},
+                  "SongYear": {"S": "1969"}
                 }
             }
         }
