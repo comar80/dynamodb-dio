@@ -1,6 +1,6 @@
 {
-  "Artist": {"S": "Iron Maiden"},
-  "SongTitle": {"S": "Chains of Misery"},
-  "AlbumTitle": {"S": "Fear of the Dark"},
-  "SongYear": {"S": "1992"}
+  "Artist": {"S": "Frank Zappa"},
+  "SongTitle": {"S": "The Idiot Bastard Son"},
+  "AlbumTitle": {"S": "We're Only in It for the Money"},
+  "SongYear": {"S": "1968"}
 }
